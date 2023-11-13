@@ -1,20 +1,26 @@
+<h1 align="center">Hi 👋, I'm Mirjalol</h1>
+<h3 align="center">A passionate Flutter developer from Uzbekistan</h3>
 
+- 🌱 I’m currently learning **Flutter**
 
-#  About Me:
-🧑🏻‍💻 I'm Mirjalol Abdunazarov. I'm 19 years old. My job is Flutter developer. <br>
-👨🏻‍🎓 Education - PDP Academy (2022-2023). <br>
-🔭 I am currently doing an internship in the PDP Practicum project.<br>
+- 👯 I’m looking to collaborate on [Quality uest](https://github.com/devAXIS1425/quality_quest.git)
 
+- 💬 Ask me about **Flutter, Dart, Cubit/Bloc, Provider, Http, Dio, AutoRoute, YandexMap/GoogleMaps, Firebase, Crashlitycs,**
 
+- 📫 How to reach me **promer2303@gmail.com**
 
-### Connect with me:
+- 📄 Know about my experiences [https://www.canva.com/design/DAFp0cuYlO8/HwNmQyV_K-FwNY7syVnQvQ/edit](https://www.canva.com/design/DAFp0cuYlO8/HwNmQyV_K-FwNY7syVnQvQ/edit)
 
-<a href="https://www.linkedin.com/in/mirjalol-abdunazarov-322b1b286/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="promer2303@gmail.com"> Email</a>
+- ⚡ Fun fact **I'm a Flutter developer . I dream of creating software that benefits people, and I have several startup ideas, but to realize them, I need experience to work on large projects, so that I can regularly learn new things in the field of programming and work for large companies.**
 
- 💬 When you happen to have any questions or comments, please feel free to contact me!
- </br>
-<!-- - 🔶 Learn about my experiences through this. [Resume](https://github.com/ZokirjonovaMuslima/ZokirjonovaMuslima/blob/main/Zokirjonova Muslima.pdf) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mirjalol-abdunazarov-322b1b286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mirjalol-abdunazarov-322b1b286/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22363250/mirjalol-abdunazarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22363250/mirjalol-abdunazarov" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/mirjalol1425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mirjalol1425" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@mirjalolabdunazarov?si=yecxtchfpsmuzd0u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@mirjalolabdunazarov?si=yecxtchfpsmuzd0u" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/mirjalol_22303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mirjalol_22303/" height="30" width="40" /></a>
+</p>
 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
